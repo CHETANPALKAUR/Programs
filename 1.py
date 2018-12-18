@@ -2,7 +2,6 @@ import sys
 a=sys.argv[1]
 b=sys.argv[2]
 t=[]
-print(a,b)
 a=[int(i) for i in a]
 b=[int(i) for i in b]
 for i in a:
